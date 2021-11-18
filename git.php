@@ -4,3 +4,4 @@
     echo 'bye byegit status';
 
     echo 'cut';
+    echo 'add moi';
